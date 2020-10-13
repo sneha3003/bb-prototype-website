@@ -73,7 +73,6 @@ First of all we would create a partial. We will call this file hero-large.hbs  I
         </div>
     </div>
 
-
 JSON
 ----
 We would then create a .json file to store the data and data objects we want to output from our partial variables. We will call this file heroData.json 
@@ -104,8 +103,7 @@ The accompanying json for this will be as follows:
      "urlText":"Button Text",
      "btnClass":"btn btn-style-b"
      }
-    }
-   
+    }  
 
 HTML Output
 -----------
